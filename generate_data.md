@@ -1,3 +1,4 @@
+https://docs.google.com/presentation/d/1dMg_1FBkB0e1nkkGuKjMray4-0ANMMLmTUkFMeEnT7E/edit?usp=sharing
 In this example we'll setup a very simple schema. We're creating a basic app where we have a bunch of companies, and those companies have contacts.
 ```
 CREATE TABLE companies(
